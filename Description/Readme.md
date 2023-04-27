@@ -8,4 +8,4 @@
 5. повторяем п.п. 2-4 пока не достигнем последнего элемента входного массива;
 6. результат - массив newArray c элементами длиной меньше или равной трём.
 
-!["Блок-схема"](/Description/createNewStringArray.drawio.png )
+!["Блок-схема"](/Description/createNewStringArray.drawio1.png )
